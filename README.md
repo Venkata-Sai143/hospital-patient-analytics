@@ -1,7 +1,7 @@
 # Hospital Patient Operations & Analytics Dashboard
 
 ## Project Overview
-
+> **Note:** This project uses a practice dataset provided by my mentor for learning and portfolio development.
 This project focuses on analyzing hospital patient operations and billing data using Microsoft Excel.
 
 The dashboard provides an interactive view of patient admissions, billing performance, medical conditions, admission types, and insurance provider distribution.
