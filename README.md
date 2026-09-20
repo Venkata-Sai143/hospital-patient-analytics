@@ -6,7 +6,7 @@ This project focuses on analyzing hospital patient operations and billing data u
 
 The dashboard provides an interactive view of patient admissions, billing performance, medical conditions, admission types, and insurance provider distribution.
 
-The objective of this project is to transform raw operational data into meaningful business insights that support data-driven decision-making.
+The objective is to transform raw operational data into meaningful business insights that support data-driven decision-making.
 
 ## Business Objective
 
@@ -16,21 +16,20 @@ The primary objective of this analysis is to understand:
 - Billing performance
 - Medical condition distribution
 - Admission type distribution
-- Insurance provider coverage
+- Insurance provider patient distribution
 - Monthly patient admission patterns
 
 ## Tools & Technologies
 
-- Microsoft Excel
-- Advanced Excel
-- Pivot Tables
-- Pivot Charts
+- Microsoft Excel (Advanced)
+- PivotTables
+- PivotCharts
 - Slicers
 - Data Cleaning
 - Data Analysis
 - Data Visualization
 - Dashboard Development
-
+  
 ## Key Performance Indicators
 
 | KPI | Value |
@@ -51,10 +50,11 @@ The dashboard provides analysis across the following business dimensions:
 
 ## Key Business Insights
 
-- Diabetes represents the highest patient volume among the medical conditions analyzed.
+- Arthritis records the highest patient volume among the medical conditions analyzed.
+- Diabetes generates the highest total billing among the medical conditions analyzed.
 - August records the highest monthly patient admissions.
 - Total billing varies across medical conditions.
-- Insurance providers contribute different levels of patient coverage.
+- Insurance providers show different levels of patient distribution.
 
 ## Dashboard Preview
 
